@@ -1,4 +1,7 @@
-# test coverage for  [truncate (v2.0.0)](https://github.com/FGRibreau/node-truncate)  [![npm package](https://img.shields.io/npm/v/npmtest-truncate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-truncate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-truncate.svg)](https://travis-ci.org/npmtest/node-npmtest-truncate)
+# npmtest-truncate
+
+#### basic test coverage for  [truncate (v2.0.0)](https://github.com/FGRibreau/node-truncate)  [![npm package](https://img.shields.io/npm/v/npmtest-truncate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-truncate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-truncate.svg)](https://travis-ci.org/npmtest/node-npmtest-truncate)
+
 #### Truncate text and keep urls safe
 
 [![NPM](https://nodei.co/npm/truncate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/truncate)
